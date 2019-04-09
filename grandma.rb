@@ -17,6 +17,6 @@ speak_to_grandma = "I LOVE YOU GRANDMA!"
     puts "HUH?! SPEAK UP, SONNY!"
   elsif speak_to_grandma != "Hi Nana, how are you?"
     puts "NO, NOT SINCE 1998!"
-  elsif speak_to_grandma==speak_to_grandma
+  elsif speak_to_grandma == speak_to_grandma
     puts "I LOVE YOU TOO PUMPKIN!"
 end
